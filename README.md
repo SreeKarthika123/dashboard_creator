@@ -33,9 +33,6 @@ cd creator-dashboard
 2.Backend Setup
 cd backend
 npm install
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/creatorDashboard------------>.env file
-JWT_SECRET=your_jwt_secret
 Start Backend Server
 node server.js
 Frontend Setup
